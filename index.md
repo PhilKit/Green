@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Green
+![Alt text](images/shades-of-green-color-names.png?raw=true "Green")
 
-You can use the [editor on GitHub](https://github.com/PhilKit/Green/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhilKit/Green/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec suscipit justo. Donec posuere ex eget nisl ornare pharetra. Pellentesque non efficitur metus. Suspendisse ut lobortis justo. Aenean id rutrum diam, et tristique massa. Integer dolor massa, aliquam id interdum sit amet, interdum tempor metus. Donec euismod lectus elit, cursus luctus enim finibus eu. Nullam eu vehicula ex.
+# Teal
+![Alt text](images/outdoors-grassland-field.jpeg?raw=true "Sheffield")
+Aliquam fringilla, velit eu aliquam euismod, nunc ante vulputate sapien, vel volutpat urna lectus nec nulla. Fusce ullamcorper purus ut risus imperdiet bibendum. Integer tellus justo, semper quis lacus eu, ornare malesuada est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In at sem quis purus gravida luctus. Vivamus id purus quis libero sollicitudin vehicula pretium sit amet eros. Proin porttitor lacus eu leo suscipit mattis. Mauris sed eros nisl. Nulla id dictum ante. In hac habitasse platea dictumst. Pellentesque fringilla ante risus, eget commodo tortor volutpat ac. In viverra ultrices dolor, nec interdum massa vestibulum et. Ut sodales ornare libero id efficitur. Vestibulum vel turpis quis erat vestibulum cursus. Ut elementum tellus nec metus lacinia, id sollicitudin mi rhoncus.
+# Turquoise
+Nam a sapien non justo blandit ullamcorper sed sodales nibh. Nam lacus urna, accumsan at lacus non, tincidunt laoreet ex. Donec felis erat, maximus et efficitur quis, semper ut leo. Nam egestas commodo lorem, ut elementum ante semper id. Duis efficitur urna sed nunc bibendum cursus. Suspendisse potenti. Donec finibus tempus lacus, et euismod nisi commodo et. Sed ornare ut magna vitae sodales. Duis sit amet ligula a metus aliquam cursus. Duis ut scelerisque eros, in scelerisque lacus. Vivamus at nulla at turpis accumsan condimentum eget et nulla. Vestibulum at enim nec augue feugiat maximus. Suspendisse vel efficitur augue. Morbi nec neque odio.
+# Lime
+Quisque mattis sapien elit, in laoreet nunc rhoncus ac. Maecenas sagittis ex id nisi tincidunt tincidunt. Morbi at lacus leo. Aenean quis enim vel nulla imperdiet condimentum. Vestibulum ultricies, lorem ut ultricies bibendum, magna nisi faucibus mi, non finibus urna ex id sem. Maecenas laoreet sem vel velit finibus venenatis. Ut quam justo, dignissim in tellus ac, ultricies rutrum massa. Nunc volutpat maximus quam nec imperdiet. Nulla sapien turpis, dignissim sit amet accumsan quis, tempor vel nunc. Aenean vestibulum elit justo, non gravida lorem tincidunt in.
