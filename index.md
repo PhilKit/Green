@@ -1,5 +1,5 @@
 # Green
-![Alt text](images/shades-of-green-color-names.png?raw=true "Green")
+![Alt text](gh-pages/images/shades-of-green-color-names.png?raw=true "Green")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec suscipit justo. Donec posuere ex eget nisl ornare pharetra. Pellentesque non efficitur metus. Suspendisse ut lobortis justo. Aenean id rutrum diam, et tristique massa. Integer dolor massa, aliquam id interdum sit amet, interdum tempor metus. Donec euismod lectus elit, cursus luctus enim finibus eu. Nullam eu vehicula ex.
 # Teal
