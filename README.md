@@ -1,4 +1,6 @@
 # Green
+![Alt text](shades-of-green-color-names.png?raw=true "Green")
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec suscipit justo. Donec posuere ex eget nisl ornare pharetra. Pellentesque non efficitur metus. Suspendisse ut lobortis justo. Aenean id rutrum diam, et tristique massa. Integer dolor massa, aliquam id interdum sit amet, interdum tempor metus. Donec euismod lectus elit, cursus luctus enim finibus eu. Nullam eu vehicula ex.
 # Teal
 Aliquam fringilla, velit eu aliquam euismod, nunc ante vulputate sapien, vel volutpat urna lectus nec nulla. Fusce ullamcorper purus ut risus imperdiet bibendum. Integer tellus justo, semper quis lacus eu, ornare malesuada est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In at sem quis purus gravida luctus. Vivamus id purus quis libero sollicitudin vehicula pretium sit amet eros. Proin porttitor lacus eu leo suscipit mattis. Mauris sed eros nisl. Nulla id dictum ante. In hac habitasse platea dictumst. Pellentesque fringilla ante risus, eget commodo tortor volutpat ac. In viverra ultrices dolor, nec interdum massa vestibulum et. Ut sodales ornare libero id efficitur. Vestibulum vel turpis quis erat vestibulum cursus. Ut elementum tellus nec metus lacinia, id sollicitudin mi rhoncus.
